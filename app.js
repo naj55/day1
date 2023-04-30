@@ -5,7 +5,7 @@ const app = express();
 
 //step 4
 app.get("/Name", (req, res) => {
-  res.send(`welcom to najla`);
+  res.send(`welcom to Najla`);
 });
 
 //step 3
